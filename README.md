@@ -20,8 +20,9 @@ Technologies
 * List indexing
 * Basic arithmetic and formatted output
 
-Example Output
+##Example Output
 
+'''text
 Total requests: 70
 Average requests per day: 11.67
 Maximum daily requests: 19
