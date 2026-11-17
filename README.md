@@ -22,7 +22,7 @@ Technologies
 
 ## Example Output
 
-'''text
+```text
 Total requests: 70
 Average requests per day: 11.67
 Maximum daily requests: 19
@@ -31,7 +31,7 @@ Minimum daily requests: 6
 Days with target achieved: 4
 Days with target missed: 2
 Target achievement rate: 66.67%
-'''
+```
 
 How to Run
 
