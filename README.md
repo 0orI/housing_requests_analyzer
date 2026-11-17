@@ -20,7 +20,7 @@ Technologies
 * List indexing
 * Basic arithmetic and formatted output
 
-##Example Output
+## Example Output
 
 '''text
 Total requests: 70
